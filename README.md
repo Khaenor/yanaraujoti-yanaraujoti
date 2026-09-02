@@ -22,13 +22,13 @@ Profissional de TI com mais de <b>5 anos de experiência</b> em Service Desk e S
 
 ### 🚀 Sobre mim
 
-- 🎯 Mais de **5 anos de experiência** em Service Desk e Suporte de TI, com foco em resolução ágil de incidentes e melhoria contínua;
-- 🗄️ Conhecimento sólido em **banco de dados (SQL)** para diagnóstico, extração de indicadores e investigação de causa raiz;
-- ⚙️ Automação de rotinas e tarefas repetitivas via **Shell Script**, reduzindo tempo de atendimento e erro humano;
-- 🖥️ Grande experiência em **Gestão de Ativos de TI (ITAM)** e **Infraestrutura de Rede**, do inventário à operação;
-- 📋 Atuação orientada por **boas práticas ITIL** (Incidente, Problema, Mudança e Gestão de Ativos);
-- 🔗 Perfil que conecta **suporte técnico**, **dados** e **automação** para gerar estabilidade e eficiência operacional;
-- 📈 Sempre em busca de transformar processos manuais em soluções escaláveis e mensuráveis.
+-  Mais de **5 anos de experiência** em Service Desk e Suporte de TI, com foco em resolução ágil de incidentes e melhoria contínua;
+-  Conhecimento sólido em **banco de dados (SQL)** para diagnóstico, extração de indicadores e investigação de causa raiz;
+-  Automação de rotinas e tarefas repetitivas via **Shell Script**, reduzindo tempo de atendimento e erro humano;
+-  Grande experiência em **Gestão de Ativos de TI (ITAM)** e **Infraestrutura de Rede**, do inventário à operação;
+-  Atuação orientada por **boas práticas ITIL** (Incidente, Problema, Mudança e Gestão de Ativos);
+-  Perfil que conecta **suporte técnico**, **dados** e **automação** para gerar estabilidade e eficiência operacional;
+-  Sempre em busca de transformar processos manuais em soluções escaláveis e mensuráveis.
 
 ---
 
@@ -49,32 +49,20 @@ Profissional de TI com mais de <b>5 anos de experiência</b> em Service Desk e S
 
 ---
 
-### ⚙️ Automação & SQL no dia a dia do Service Desk
+###  Automação & SQL no dia a dia do Service Desk
 
 No meu dia a dia, uso automação e dados não como diferenciais opcionais, mas como parte central da operação:
 
-- 🔁 **Shell Scripts** para automatizar rotinas de manutenção, verificação de status de serviços, limpeza de logs e criação/desativação de usuários, eliminando tarefas manuais repetitivas;
-- 📊 **Consultas SQL** para investigar causas raiz de incidentes recorrentes, cruzando dados de chamados, ativos e histórico de atendimentos;
-- 📈 Construção de **relatórios e indicadores** (SLA, volume de chamados, tempo médio de resolução) direto do banco de dados, apoiando decisões da gestão;
-- 🧩 Scripts de **checagem proativa de infraestrutura** (disco, memória, conectividade de rede) para antecipar problemas antes que virem incidentes;
-- 🗂️ Integração entre **Gestão de Ativos** e banco de dados para manter o inventário de hardware/software sempre atualizado e auditável;
-- ✅ Aplicação constante dos processos **ITIL** (Incidente, Problema e Mudança) para garantir que cada automação seja documentada, rastreável e segura.
+-  **Shell Scripts** para automatizar rotinas de manutenção, verificação de status de serviços, limpeza de logs e criação/desativação de usuários, eliminando tarefas manuais repetitivas;
+-  **Consultas SQL** para investigar causas raiz de incidentes recorrentes, cruzando dados de chamados, ativos e histórico de atendimentos;
+-  Construção de **relatórios e indicadores** (SLA, volume de chamados, tempo médio de resolução) direto do banco de dados, apoiando decisões da gestão;
+-  Scripts de **checagem proativa de infraestrutura** (disco, memória, conectividade de rede) para antecipar problemas antes que virem incidentes;
+-  Integração entre **Gestão de Ativos** e banco de dados para manter o inventário de hardware/software sempre atualizado e auditável;
+-  Aplicação constante dos processos **ITIL** (Incidente, Problema e Mudança) para garantir que cada automação seja documentada, rastreável e segura.
 
 O resultado: menos tempo apagando incêndio, mais tempo prevenindo — e uma operação de TI mais estável e previsível.
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yanaraujoti&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanaraujoti&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Khaenor&theme=tokyonight&hide_border=true" />
-</p>
-
 
 ---
 

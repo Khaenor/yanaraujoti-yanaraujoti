@@ -72,10 +72,9 @@ O resultado: menos tempo apagando incêndio, mais tempo prevenindo — e uma ope
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yanaraujoti&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Khaenor&theme=tokyonight&hide_border=true" />
 </p>
 
-> ⚠️ Substitua `yanaraujoti` pelo seu **nome de usuário real do GitHub** nos links acima para que as estatísticas sejam exibidas corretamente.
 
 ---
 
